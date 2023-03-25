@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 #### Connect with me
 
+<a href="https://mapstodon.space/@arferrand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="arferrand" height="30" width="40" /></a>
 <a href="https://twitter.com/arferrand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arferrand" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aferrand/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arferrand" height="30" width="40" /></a>
 <a href="https://dev.to/tsamaya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tsamaya" height="30" width="40" /></a>
